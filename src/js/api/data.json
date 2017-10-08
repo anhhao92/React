@@ -1,0 +1,123 @@
+ [
+        {
+            "id": 1,
+            "categoryName": "Smartphone",
+            "brand": "Apple",
+            "categoryId": 2,
+            "totalReview": 945,
+            "price": "18.710.000",
+            "description": "Apple iPhone 7 Plus RED 128GB (Factory Unlocked)",
+            "thumbnail": "https://cdn02.static-adayroi.com/resize/240_240/100/0/2017/04/03/1491208260545_2111758.jpg"
+        },
+        {
+            "id": 6,
+            "categoryName": "Smartphone",
+            "brand": "Samsung",
+            "categoryId": 2,
+            "totalReview": 417,
+            "price": "7.710.000",
+            "description": "Samsung Galaxy A5 2017 (Blue Corel)",
+            "thumbnail": "https://cdn02.static-adayroi.com/resize/240_240/100/0/2017/08/25/1503650455445_3306943.jpg"
+        },
+        {
+            "id": 2,
+            "categoryName": "Shoes",
+            "brand": "New Balance",
+            "price": "1.270.000",
+            "newProduct": true,
+            "totalReview": 315,
+            "categoryId": 1,
+            "description": "New Balance Men's Mz501 Pique Polo Pack Fashion Sneaker",
+            "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/41VSnP5WgxL._AC_SY200_.jpg"
+        },
+        {
+            "id": 3,
+            "categoryName": "Shoes",
+            "brand": "New Balance",
+            "categoryId": 1,
+            "totalReview": 145,
+            "price": "995.000",
+            "description": "New Balance Men's Fashion Sneaker",
+            "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/71T0R03wIlL._UX500_.jpg"
+        },
+        {
+            "id": 4,
+            "categoryName": "Shoes",
+            "brand": "New Balance",
+            "categoryId": 1,
+            "totalReview": 211,
+            "price": "1.240.000",
+            "description": "New Balance Men's 994 Fashion Sneaker",
+            "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/41uz3LJcYpL._AC_SY200_.jpg"
+        },
+        {
+            "id": 5,
+            "categoryName": "Camera & Photo",
+            "brand": "Nikon",
+            "categoryId": 3,
+            "totalReview": 124,
+            "price": "19.949.000",
+            "description": "Nikon Coolpix L340 20.2 MP Digital Camera with 28x Optical Zoom and 3.0-Inch LCD (Black)",
+            "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/91zd5c1CzML._SX522_.jpg"
+        },
+        {
+            "id": 7,
+            "categoryName": "Camera & Photo",
+            "brand": "Canon",
+            "categoryId": 3,
+            "totalReview": 9214,
+            "price": "4.999.000",
+            "description": "Canon PowerShot SX420 Digital Camera w/ 42x Optical Zoom - Wi-Fi & NFC Enabled (Black)",
+            "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/41kpkeoa2cL.jpg"
+        },
+        {
+            "id": 8,
+            "categoryName": "Book",
+            "brand": "Bill Martin Jr",
+            "categoryId": 4,
+            "totalReview": 9214,
+            "price": "999.000",
+            "description": "Brown Bear, Brown Bear, What Do You See?",
+            "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/51fnwYgxcyL._AC_SR201,266_.jpg"
+        },
+        {
+            "id": 9,
+            "categoryName": "Book",
+            "brand": "Rod Campbell",
+            "categoryId": 4,
+            "totalReview": 999,
+            "price": "899.000",
+            "description": "Dear Zoo: A Lift-the-Flap Book",
+            "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/51SQFs%2BTGjL._AC_SY200.jpg"
+        },
+        {
+            "id": 10,
+            "categoryName": "Book",
+            "brand": "Margaret Wise Brown",
+            "categoryId": 4,
+            "totalReview": 699,
+            "price": "499.000",
+            "description": "Goodnight Moon",
+            "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/51%2BmV1XUUQL._AC_SY200.jpg"
+        },
+        {
+            "id": 11,
+            "categoryName": "Movies & TV",
+            "brand": "DC Comic",
+            "categoryId": 5,
+            "totalReview": 7699,
+            "price": "199.000",
+            "description": "Wonder Woman (2017) (BD) [Blu-ray]",
+            "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/51i08Jr6I3L._AC_SY200_.jpg"
+        },
+        {
+            "id": 12,
+            "categoryName": "Movies & TV",
+            "brand": "Sony Picture",
+            "categoryId": 5,
+            "totalReview": 7699,
+            "price": "399.000",
+            "description": "Spider-Man: Homecoming [Blu-ray]",
+            "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/61OTPj0ZBVL._AC_SY200_.jpg"
+        }
+]
