@@ -24,7 +24,3 @@ ReactDOM.render(
     </Provider>,
     document.getElementById('root')
 );
-
-        /* <ConnectedRouter history={history}>
-            <Route exact path="/" component={App}/>
-        </ConnectedRouter> */
